@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NameGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NameGen_jar</output-path>
+    <root id="archive" name="NameGen.jar">
+      <element id="module-output" name="NameGen" />
+    </root>
+  </artifact>
+</component>
